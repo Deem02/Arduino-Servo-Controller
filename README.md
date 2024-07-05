@@ -25,6 +25,8 @@ This Arduino sketch controls six servo motors using analog input pins. The servo
 3. Upload the Arduino sketch to your board.
 4. Rotate the potentiometers to control the position of the corresponding servo motors.
 
+   ![image](https://github.com/Deem02/servo-motor/assets/158334032/0d70781b-6353-4bdd-84cc-19a75f2d5d76)
+
 ## Notes
 
 - This sketch assumes the use of standard servo motors that can rotate 180 degrees.
