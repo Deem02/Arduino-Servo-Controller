@@ -1,13 +1,16 @@
 
-# Arduino Servo Control
+# Arduino Servo Motor Control
 
 This Arduino sketch controls six servo motors using analog input pins. The servo motors are attached to digital pins 11, 6, 5, 3, 10, and 9, respectively.
+
+## Circuit Diagram
+   ![image](https://github.com/Deem02/servo-motor/assets/158334032/0d70781b-6353-4bdd-84cc-19a75f2d5d76)
 
 ## Components
 
 - Arduino board
 - 6 Servo motors
-- 6 Potentiometers (10kΩ) connected to analog pins A5, A4, A3, A2, A1, and A0
+- 6 Potentiometers connected to analog pins A5, A4, A3, A2, A1, and A0
 
 ## How it Works
 
@@ -25,7 +28,6 @@ This Arduino sketch controls six servo motors using analog input pins. The servo
 3. Upload the Arduino sketch to your board.
 4. Rotate the potentiometers to control the position of the corresponding servo motors.
 
-   ![image](https://github.com/Deem02/servo-motor/assets/158334032/0d70781b-6353-4bdd-84cc-19a75f2d5d76)
 
 ## Notes
 
